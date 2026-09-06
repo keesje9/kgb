@@ -1,3 +1,5 @@
+Apparent Power VA
+
 entity_id,state,last_changed
 sensor.keuken_stekker_vaatwasser_apparent_power,2.70,2026-09-04T22:00:00.000Z
 sensor.keuken_stekker_vaatwasser_apparent_power,0.00,2026-09-04T22:00:03.673Z
